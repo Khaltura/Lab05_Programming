@@ -4,6 +4,9 @@
 #include "vozvedenie.h"
 #include "checkinput.h"
 
+std::vector<int> vozvedenie(int input_1, std::vector<int> vec);
+int checkInput(int input_1);
+
 
 int main() {
     int input_1;
